@@ -35,3 +35,4 @@ do
 	esac
 
 done
+echo "Test new line"
