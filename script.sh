@@ -36,3 +36,5 @@ do
 
 done
 echo "Test new line"
+echo "___________________________"
+echo "Test script before merge and delete branch"
