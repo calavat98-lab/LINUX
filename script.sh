@@ -38,3 +38,6 @@ done
 echo "Test new line"
 echo "___________________________"
 echo "Test script before merge and delete branch"
+
+echo "____________________________________________"
+echo "new line 1.1"
