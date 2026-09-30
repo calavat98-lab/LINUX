@@ -41,3 +41,6 @@ echo "Test script before merge and delete branch"
 
 echo "____________________________________________"
 echo "new line 1.1"
+
+echo "____________________________"
+echo "new line 1.2 , 30.09 15:40"
